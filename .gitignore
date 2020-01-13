@@ -1,3 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
 *.pyc
+pretrained_models/
+trained_models/
+tensorboard_model/
+datagate/
+utils/file_list
+headshot_landmarks/
+primesense/
